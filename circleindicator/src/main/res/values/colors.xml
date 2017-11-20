@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <color name="white">#FFFFFF</color>
+    <color name="colorPrimary">#66B3CD</color>
+    <color name="colorPrimaryDark">#3E99C0</color>
+
+    <color name="light_aqua">#6CD3F3</color>
+    <color name="light_gray">#E6E3E1</color>
+
+    <color name="dark_aqua">#66B3CD</color>
+    <color name="dark_gray">#72716F</color>
+
+    <color name="smooth_red">#F1474F</color>
+    <color name="colorAccent">#F1474F</color>
+    <color name="gray">#A0A2A5</color>
+    <color name="color_primary_transparant">#3066B3CD</color>
+    <color name="very_light_gray">#F0F0F0</color>
+    <color name="transparent">#00000000</color>
+    <color name="light_aqua_transparent">#996CD3F3</color>
+    <color name="black">#000000</color>
+    <color name="white_transparent">#99FFFFFF</color>
+    <color name="gray_transparent">#88808285</color>
+    <color name="black_half_transparent_">#50000000</color>
+    <color name="very_dark_gray">#333333</color>
+    <color name="black_transparent">#990000</color>
+
+
+
+    <color name="very_light_gray_transparent">#99F0F0F0</color>
+    <color name="very_dark_aqua">#3E96B4</color>
+    <color name="smooth_orange">#F8871D</color>
+    <color name="jojo_border">#B6B6B6</color>
+
+    <color name="doff_green_color">#1f8b95</color>
+    <color name="light_doff_green_color">#578c91</color>
+    <color name="doff_orange_color">#f4803d</color>
+    <color name="light_doff_orange_color">#f7a474</color>
+
+
+</resources>

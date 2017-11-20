@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <declare-styleable name="CircleIndicator">
+    <declare-styleable name="CircleBarIndicator">
         <attr name="barColor" format="color"></attr>
         <attr name="rimColor" format="color"></attr>
         <attr name="teksColor" format="color"></attr>
