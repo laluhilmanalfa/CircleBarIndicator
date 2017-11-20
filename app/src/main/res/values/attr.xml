@@ -8,6 +8,8 @@
         <attr name="teksColor" format="color"></attr>
         <attr name="countourColor" format="color"></attr>
         <attr name="fillColor" format="color"></attr>
+        <attr name="barProgress" format="integer"></attr>
+        <attr name="barSize" format="integer"></attr>
 
     </declare-styleable>
 </resources>
